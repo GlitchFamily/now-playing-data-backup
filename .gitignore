@@ -1,0 +1,6 @@
+scripts/node_modules
+
+# OS
+/.vscode
+.DS_Store
+._*
