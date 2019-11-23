@@ -1,7 +1,7 @@
 ---
 title: Compiler Optimization Techniques
 artist: The Algorithm
-date: 2019-11-16T02:09:10.595Z
+date: 2019-01-15T02:09:10.595Z
 cover: a2700182496_10.jpg
 styles:
   - Electronic

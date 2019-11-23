@@ -1,7 +1,7 @@
 ---
 title: Daft Science
 artist: Coins
-date: 2019-11-16T02:09:10.589Z
+date: 2019-01-09T02:09:10.589Z
 cover: a2061651603_16.jpg
 styles:
   - Electro

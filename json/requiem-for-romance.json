@@ -1,9 +1,12 @@
 {
   "title": "Requiem for Romance",
   "artist": "Night Club",
-  "date": "2019-11-16T02:09:10.593Z",
+  "date": "2019-01-13T02:09:10.593Z",
   "cover": "a2530641631_16.jpg",
-  "styles": ["Electronic", "Darkwave"],
+  "styles": [
+    "Electronic",
+    "Darkwave"
+  ],
   "links": {
     "spotify": "https://play.spotify.com/album/0zu08xsfuBBMFWpfQ92KRv",
     "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lZZfs2onr_i5SHT26k_P8GvI22T1sEfhQ",

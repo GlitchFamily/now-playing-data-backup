@@ -1,9 +1,11 @@
 {
   "title": "Nothing But Thieves",
   "artist": "Nothing But Thieves",
-  "date": "2019-11-16T02:09:10.581Z",
+  "date": "2019-01-01T02:09:10.581Z",
   "cover": "1-l9ycviqberhwkdtirgf1aq.jpeg",
-  "styles": ["Alternative Rock"],
+  "styles": [
+    "Alternative Rock"
+  ],
   "links": {
     "spotify": "https://play.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2",
     "youtube": "https://music.youtube.com/watch?v=X2zcG3bcuMI",

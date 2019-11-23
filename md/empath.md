@@ -1,7 +1,7 @@
 ---
 title: Empath
 artist: Devin Townsend
-date: 2019-11-16T02:09:10.594Z
+date: 2019-01-14T02:09:10.594Z
 cover: 7f29fab8-4bfb-4101-ba94-2feabe8b5ca2.jpeg
 styles:
   - Progressive Metal

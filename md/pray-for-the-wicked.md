@@ -1,7 +1,7 @@
 ---
 title: Pray For The Wicked
 artist: Panic! At The Disco
-date: 2019-11-16T02:09:10.597Z
+date: 2019-01-17T02:09:10.597Z
 cover: eba3e87a-96b6-4a4a-97cd-c9ee8a0ac541.sized-1000x1000.jpg
 styles:
   - Pop rock

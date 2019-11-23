@@ -1,7 +1,7 @@
 ---
 title: Bad Ideas
 artist: Tessa Violet
-date: 2019-11-16T02:09:10.607Z
+date: 2019-01-27T02:09:10.607Z
 cover: c9284e25d68511b33a3376e6eafc1587.1000x1000x1.jpg
 styles:
   - Indie Pop

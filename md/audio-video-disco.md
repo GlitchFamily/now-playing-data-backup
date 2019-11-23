@@ -1,7 +1,7 @@
 ---
 title: Audio, Video, Disco
 artist: Justice
-date: 2019-11-16T02:09:10.540Z
+date: 2018-11-21T02:09:10.540Z
 cover: audio-video-disco-500.jpg
 styles:
   - Electronic

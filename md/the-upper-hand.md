@@ -1,7 +1,7 @@
 ---
 title: The Upper Hand
 artist: AllttA
-date: 2019-11-16T02:09:10.591Z
+date: 2019-01-11T02:09:10.591Z
 cover: 6b4996362018bb10e78813359075f0f7-1000x1000x1.jpg
 styles:
   - Hip-Pop

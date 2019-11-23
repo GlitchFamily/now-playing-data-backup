@@ -1,7 +1,7 @@
 ---
 title: Content
 artist: Joywave
-date: 2019-11-16T02:09:10.604Z
+date: 2019-01-24T02:09:10.604Z
 cover: joywave_content_9qco.jpg
 styles:
   - Alternative Rock

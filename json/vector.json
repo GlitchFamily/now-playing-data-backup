@@ -1,9 +1,11 @@
 {
   "title": "Vector",
   "artist": "Haken",
-  "date": "2019-11-16T02:09:10.596Z",
+  "date": "2019-01-16T02:09:10.596Z",
   "cover": "haken_vector.jpg",
-  "styles": ["Progressive Metal"],
+  "styles": [
+    "Progressive Metal"
+  ],
   "links": {
     "spotify": "https://play.spotify.com/album/1PhYHO7Pva9e1YQY5GQ8zx",
     "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_mGtomGb1wIdcCwjFcFcHYF1iRFARdxABU",

@@ -1,7 +1,7 @@
 ---
 title: Moe Moe
 artist: Moe Shop
-date: 2019-11-16T02:09:10.566Z
+date: 2018-12-17T02:09:10.566Z
 cover: a4162111118_16.jpg
 styles:
   - Electronic

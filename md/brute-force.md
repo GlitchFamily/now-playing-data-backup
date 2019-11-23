@@ -1,7 +1,7 @@
 ---
 title: Brute Force
 artist: The Algorithm
-date: 2019-11-16T02:09:10.571Z
+date: 2018-12-22T02:09:10.571Z
 cover: brute_force.jpg
 styles:
   - Electronic

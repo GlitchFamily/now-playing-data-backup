@@ -1,7 +1,7 @@
 ---
 title: Σ
 artist: REOL
-date: 2019-11-16T02:09:10.584Z
+date: 2019-01-04T02:09:10.584Z
 cover: sigma.jpg
 styles:
   - Electronic

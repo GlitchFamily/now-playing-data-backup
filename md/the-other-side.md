@@ -1,7 +1,7 @@
 ---
 title: The Other Side
 artist: LukHash
-date: 2019-11-16T02:09:10.579Z
+date: 2018-12-30T02:09:10.579Z
 cover: a1320994375_10.jpg
 styles:
   - Electronica

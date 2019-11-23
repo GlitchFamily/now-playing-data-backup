@@ -1,7 +1,7 @@
 ---
 title: Mirrors the Sky
 artist: Layla Foy
-date: 2019-11-16T02:09:10.543Z
+date: 2018-11-24T02:09:10.543Z
 cover: tumblr_od8ynlxegl1vfaqyoo1_1280.jpg
 styles:
   - Pop

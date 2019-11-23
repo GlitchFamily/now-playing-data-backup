@@ -1,7 +1,7 @@
 ---
 title: Minor Victories
 artist: Minor Victories
-date: 2019-11-16T02:09:10.556Z
+date: 2018-12-07T02:09:10.556Z
 cover: tumblr_oihg9eqkbb1vfaqyoo1_640.jpg
 styles:
   - Alternative Rock

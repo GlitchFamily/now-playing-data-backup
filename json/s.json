@@ -1,9 +1,12 @@
 {
   "title": "Σ",
   "artist": "REOL",
-  "date": "2019-11-16T02:09:10.584Z",
+  "date": "2019-01-04T02:09:10.584Z",
   "cover": "sigma.jpg",
-  "styles": ["Electronic", "Dance Music"],
+  "styles": [
+    "Electronic",
+    "Dance Music"
+  ],
   "links": {
     "spotify": "https://play.spotify.com/album/5MruJPW5X4cal6bpN7llrF",
     "youtube": "https://music.youtube.com/watch?v=vsOaFuHfpKs",

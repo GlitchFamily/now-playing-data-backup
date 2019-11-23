@@ -1,7 +1,7 @@
 ---
 title: 太鼓
 artist: Danger
-date: 2019-11-16T02:09:10.586Z
+date: 2019-01-06T02:09:10.586Z
 cover: danger-taiko.jpg
 styles:
   - Electronic

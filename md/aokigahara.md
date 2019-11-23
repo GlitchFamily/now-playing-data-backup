@@ -1,7 +1,7 @@
 ---
 title: Aokigahara
 artist: Harariki For The Sky
-date: 2019-11-16T02:09:10.541Z
+date: 2018-11-22T02:09:10.541Z
 cover: aokigahara-500.jpg
 styles:
   - Black Metal

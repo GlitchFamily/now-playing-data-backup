@@ -1,7 +1,7 @@
 ---
 title: New Model
 artist: Perturbator
-date: 2019-11-16T02:09:10.582Z
+date: 2019-01-02T02:09:10.582Z
 cover: a3395045031_16.jpg
 styles:
   - Electronic

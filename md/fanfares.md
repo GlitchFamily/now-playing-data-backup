@@ -1,7 +1,7 @@
 ---
 title: Fanfares
 artist: GoGo Penguin
-date: 2019-11-16T02:09:10.560Z
+date: 2018-12-11T02:09:10.560Z
 cover: tumblr_op6u03jnrd1vfaqyoo1_1280.jpg
 styles:
   - Jazz

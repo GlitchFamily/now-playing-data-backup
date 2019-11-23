@@ -1,7 +1,7 @@
 ---
 title: Nothing But Thieves
 artist: Nothing But Thieves
-date: 2019-11-16T02:09:10.581Z
+date: 2019-01-01T02:09:10.581Z
 cover: 1-l9ycviqberhwkdtirgf1aq.jpeg
 styles:
   - Alternative Rock

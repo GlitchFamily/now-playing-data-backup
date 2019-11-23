@@ -1,7 +1,7 @@
 ---
 title: Dead End Kings
 artist: Katatonia
-date: 2019-11-16T02:09:10.606Z
+date: 2019-01-26T02:09:10.606Z
 cover: e363b405b4b4d259ddbecf01c516ae6c.1000x1000x1.jpg
 styles:
   - Progressive Rock

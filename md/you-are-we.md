@@ -1,7 +1,7 @@
 ---
 title: You Are We
 artist: While She Sleeps
-date: 2019-11-16T02:09:10.602Z
+date: 2019-01-22T02:09:10.602Z
 cover: you-are-we.jpg
 styles:
   - Metalcore

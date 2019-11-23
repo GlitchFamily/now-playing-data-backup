@@ -1,7 +1,7 @@
 ---
 title: Kvelertak
 artist: Kvelertak
-date: 2019-11-16T02:09:10.588Z
+date: 2019-01-08T02:09:10.588Z
 cover: kvelertak.jpg
 styles:
   - Black Metal

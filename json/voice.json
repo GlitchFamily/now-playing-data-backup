@@ -1,9 +1,13 @@
 {
   "title": "Voice",
   "artist": "Hiromi",
-  "date": "2019-11-16T02:09:10.577Z",
+  "date": "2018-12-28T02:09:10.577Z",
   "cover": "cover_50176662016_r.jpg",
-  "styles": ["Jazz", "Fusion", "Post-bop"],
+  "styles": [
+    "Jazz",
+    "Fusion",
+    "Post-bop"
+  ],
   "links": {
     "spotify": "https://play.spotify.com/album/1LeBjxguhl0sNpmJSc4aKu",
     "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_lpVrYFUwU8khbJSsh567KfI22jhyU0YKI",

@@ -1,7 +1,7 @@
 ---
 title: Spanking Hour
 artist: Freak Kitchen
-date: 2019-11-16T02:09:10.587Z
+date: 2019-01-07T02:09:10.587Z
 cover: 1280x1280.jpg
 styles:
   - Progressive Metal

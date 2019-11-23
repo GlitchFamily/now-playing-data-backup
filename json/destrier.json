@@ -1,9 +1,12 @@
 {
   "title": "Destrier",
   "artist": "Agent Fresco",
-  "date": "2019-11-16T02:09:10.598Z",
+  "date": "2019-01-18T02:09:10.598Z",
   "cover": "agent-fresco.jpg",
-  "styles": ["Progressive Rock", "Progressive Metal"],
+  "styles": [
+    "Progressive Rock",
+    "Progressive Metal"
+  ],
   "links": {
     "spotify": "https://play.spotify.com/album/1syoohGc0fQAoJWy57XZUF",
     "youtube": "https://music.youtube.com/playlist?list=OLAK5uy_ly2l_0CWU_yhpibZAyBMvd-ZGKA2r4Jrc",
